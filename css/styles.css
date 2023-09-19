@@ -63,6 +63,12 @@
     background-color: rgb(64, 255, 0);
     color: purple;
 }
+
+.centeredColumn {
+    background-color: blue;
+    color: red;
+}
+
 /* DO NOT CHANGE CODE BELOW THIS LINE */
 .red {
     background-color: darkred;
